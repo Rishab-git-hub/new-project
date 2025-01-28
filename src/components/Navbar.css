@@ -1,0 +1,31 @@
+ul
+{
+ display:flex;
+ list-style:none;
+ background-color:aliceblue;
+
+}
+ul li
+{
+ padding: 5px;
+}
+.active-link
+{
+    color:black;
+}
+.cart{
+    width: 30%;
+
+}
+.logo{
+    width: 30%;
+    font-size: 35px;
+}
+.navbar{
+    width: 40%;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+
+}
